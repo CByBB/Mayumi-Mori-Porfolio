@@ -6,23 +6,23 @@ import { works03 } from './works03'
 export const WORKS_PAGES: WorksPage[] = [
   {
     id: 'works-01',
-    label: 'works 01',
+    label: '01',
     path: '/works-01/',
-    title: 'works 01 | Works | TOBUKURO INC. | フォトレタッチカンパニー',
+    title: '01 | 森 真由美',
     items: works01,
   },
   {
     id: 'works-02',
-    label: 'works 02',
+    label: '02',
     path: '/works-02/',
-    title: 'works 02 | Works | TOBUKURO INC. | フォトレタッチカンパニー',
+    title: '02 | 森 真由美',
     items: works02,
   },
   {
     id: 'works-03',
-    label: 'works 03',
+    label: '03',
     path: '/works-03/',
-    title: 'works 03 | Works | TOBUKURO INC. | フォトレタッチカンパニー',
+    title: '03 | 森 真由美',
     items: works03,
   },
 ]

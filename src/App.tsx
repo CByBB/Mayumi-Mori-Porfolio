@@ -7,7 +7,7 @@ const works01 = getWorksPage('works-01')
 const works02 = getWorksPage('works-02')
 const works03 = getWorksPage('works-03')
 
-const ROOT_TITLE = 'Portfolio | TOBUKURO INC. | フォトレタッチカンパニー'
+const ROOT_TITLE = '森 真由美 | Portfolio'
 
 export default function App() {
   return (

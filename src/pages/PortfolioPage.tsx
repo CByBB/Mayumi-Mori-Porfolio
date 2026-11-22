@@ -16,7 +16,7 @@ export function PortfolioPage({ page, documentTitle }: PortfolioPageProps) {
 
   return (
     <>
-      <h1 className="page-title">Portfolio</h1>
+      <h2 className="page-title">実績</h2>
       <WorksNav />
       <WorksGallery items={page.items} />
     </>
